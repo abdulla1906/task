@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper-bg{
+    background-color: bisque;
+}
+.wrapper{
+    height: 100vh;
+    width: 100%;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.wrapper-box{
+    width: 30%;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.wrapper-box h1{
+    margin-top: 30px;
+}
+.wrapper-call{
+    display: flex;
+    margin-top: 30px;
+    padding: 20px;
+}
+.wrapper-call input {
+    
+  border: none;  
+  border-bottom: 1px solid;
+  padding: 10px;
+}
+.wrapper-id form{
+    
+}
+.wrapper-id input{
+    padding: 10px;
+    width: 100%;
+    border: none;  
+    border-bottom: 1px solid;
+    padding: 10px;
+    gap: 30px;
+    
+}
+.wrapper-chek{
+    margin-top: 20px;
+    margin-right: 250px;
+}
+.wrapper-chek form {
+    display: flex;
+    gap: 10px;
+}
+.wrapper-chek form p{
+    border: 3px solid rgb(110, 10, 101);
+    font-size: 10px;
+    
+}
+.wrapper-btn{
+    margin-top: 50px;
+}
+.wrapper-btn button {
+    width: 400px;
+    height: 40px;
+    background-color: rgb(104, 106, 107);
+    color: aliceblue;
+}
+

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tasks{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    gap: 30px;
+    
+}
+.tasks a {
+    width: 8%;
+    height: 8vh;
+    border: 1px solid ;
+    border-radius: 10px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    text-decoration: none;
+}
