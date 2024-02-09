@@ -1,0 +1,330 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.wrapper-box{
+    width: 100%;
+    height: auto;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: rgb(192, 192, 197);   
+}
+.wrapper-box h1{
+    margin-left: 320px;
+   
+}
+.wrapper-a {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+.margin{
+    margin-right: 250px ;
+}
+.wrapper-a a{
+    color: black;
+}
+.wrapper{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(35, 197, 130);
+   display: flex;
+   justify-content: center; 
+   align-items: center;
+   
+}
+.wrapper-item{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.wrapper-item p{
+    width: 300px;
+    height: 80px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.wrapper-item h2 {
+    width: 400px;
+}
+.wrapper-btn{
+    width: 400px;
+}
+.wrapper-btn button{
+ padding: 10px;
+ width: 110px;
+ height: 45px;
+background-color: black;
+color: aliceblue;
+border-radius: 5px;
+}
+.wrapper-btn a {
+    width: 400px;
+    margin-left: 30px;
+    color: black;
+    font-size: 20px;
+}
+.wrapper-img img{
+width: 500px;
+height: 35vh; 
+border-radius: 10px;
+
+}
+.wrapper-contanier{
+    width: 100%;
+}
+.wrapper-contanier img{
+    width: 100%;
+    height: 20vh;
+}
+ .A{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .wrapper-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+ }
+h3{
+    opacity: 0.5;
+}
+.main{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+.mains p{
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.main-img{
+    width: 60%;
+    height: 50vh; 
+    display: flex;
+
+}
+.main-img img{
+    width: 70%;
+    height: 35vh;
+    border-radius: 5px;
+}
+.main-text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 30px;
+}
+.cantener{
+    width: 100%;
+    height: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.canteners{
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.canteners p{
+    width: 389px;
+    height: 66px;
+}
+.cantener-img img {
+    width: 100%;
+    height: 35vh;
+    border-radius: 5px;
+}
+.wrappers{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.wrapperlar{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 300px;
+}
+.wrapperlar p {
+    width: 197px;
+    height: 88px;
+}
+.main-box{
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: rgb(139, 139, 228);
+    flex-direction: column;
+    
+}
+.main-box h2{
+    font-size: 29px;
+}
+.main-box p{
+    font-size: 19px;
+}
+.main-boxes{
+    border: none;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    background-color: aliceblue;
+    
+    
+}
+.wrapper-p {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.wrapper-p p{
+    opacity: 0.5;
+}
+.main-btn button{
+    padding: 10px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+}.main-boxes span{
+    font-size: 25px;
+    color:  #489FD9;
+    
+}
+.main-end{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.main-boxes-one {
+    display: flex;
+    gap: 15px;
+}
+.wrapper-button{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.wrapper-button p {
+    width: 800px;
+    height: 93px;
+    font-size: 27px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.wrapper-button h2 {
+    font-size: 35px;
+}
+.wrapper-button img {
+    width: 150px;
+    height: 150px;
+}
+.wrapper-buttun {
+    width: 100%;
+    height: 20vh;
+}
+.wrapper-buttun img {
+    width: 100%;
+    height: 20vh;
+}
+.wrapper-one{
+    width: 100%;
+    height: 40vh;
+     display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    background-color: rgb(78, 77, 77);
+    color: azure;
+}
+.progress{
+    margin-top: 10px;
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  position: relative; 
+  background-color:  rgb(43, 39, 39); 
+}
+.progress::after{
+    content: "";
+    position: absolute;
+    background-color: rgb(90, 88, 88);
+    width: 190px;
+    height: 65%;
+    height: 4vh;
+    border-radius: 5px;
+}
+.wrapper-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+.wrapper-ones p{
+    margin-top: 20px;
+   
+}
+.wrapper-two{
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 15px;
+}
+.wrapper-six{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    text-align: center;
+
+}
+.wrapper-ones{
+    margin-right: 100px;
+}
+.wrapper-ends{
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+    color: rgb(74, 74, 74);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.wrapper-ends p{
+    margin-right: 300px;
+  
+
+}
